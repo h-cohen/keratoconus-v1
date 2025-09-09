@@ -1,7 +1,12 @@
+data/
+Results/
+Paper_figs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
+.vscode/
 
 # C extensions
 *.so
