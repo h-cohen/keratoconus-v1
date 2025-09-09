@@ -149,8 +149,6 @@ This work has been published in a peer-reviewed journal. Below is the abstract f
 
 ## Contact
 
-For questions about this analysis or collaboration opportunities, please refer to the project documentation or contact the research team.
+For questions about this analysis or collaboration opportunities, please refer to the project documentation or contact the research team at yamit.jt@gmail.com or hal.nls@gmail.com.
 
 ---
-
-*This project represents a comprehensive approach to keratoconus detection using machine learning and corneal topography data, with potential applications in clinical ophthalmology and automated screening systems. The research has been peer-reviewed and published, demonstrating the clinical validity and scientific rigor of the methodology.*
